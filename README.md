@@ -34,15 +34,6 @@ This is a simple **Summary Generator** built using **Streamlit**. Users input a 
 3. **Select the content type.**
 4. **Hit Submit** to generate the summary.
 
-## Project Structure
-```
-./summary-generator
-│── main.py               # Streamlit app logic
-│── summarizer.py         # LangChain + LLaMA summarization logic
-│── requirements.txt      # Dependencies
-│── ./assets/image.png    # Reference image
-```
-
 ## Screenshot
 ![](/assets/image.png)
 
